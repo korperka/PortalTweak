@@ -1,0 +1,4 @@
+name: PortalTweak
+version: '1.0'
+main: hi.korperka.portaltweak.PortalTweak
+api-version: '1.21'
